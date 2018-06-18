@@ -1,3 +1,7 @@
 # DevopsAWS
 demo 
-Developer 1 changes 
+<<<<<<< HEAD
+=======
+developer 2 changes
+
+>>>>>>> dev2
